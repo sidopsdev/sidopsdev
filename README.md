@@ -1,5 +1,7 @@
 ### Hi, I'm Sid 👋 :man_technologist:
 
+I'm a DevOps and Software Engineer
+
 <!--
 **sidopsdev/sidopsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
