@@ -2,7 +2,7 @@
 
 [![Containerize all the things!](https://sidopsdev.s3-ap-southeast-1.amazonaws.com/%5B+br(eakfas_t)+%2B+(l)unch+%5D+www.brunch.com.png)](https://sidops.dev)
 
-I'm a DevOps and Software Engineer
+I'm a DevOps, AWS Solution Architect and Part Time Software Engineer
 
 <!--
 **sidopsdev/sidopsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
